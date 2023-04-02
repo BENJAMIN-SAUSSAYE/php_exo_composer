@@ -1,0 +1,16 @@
+{
+    "name": "saussaye/php_exo_composer",
+    "description": "Wild composer quest",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saussaye",
+            "email": "saussaye.ipod@email.com"
+        }
+    ],
+    "require": {}
+}
